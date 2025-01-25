@@ -15,4 +15,9 @@ The project involves the following steps:
    - **Clustering:** Applied clustering techniques to segment the customer purchase behavior based on features such as monetary, recency and frequency of purchases, detailed in `Clustering.ipynb`.  
 
 3. **Power BI Dashboard:**  
-   - Created a visualization dashboard to present key insights derived from the clustered dataset in `PowerBIAnalysis.pbix`.  
+   - Created a visualization dashboard to present key insights derived from the clustered dataset in `PowerBIAnalysis.pbix`.
+
+## Dataset
+
+- **Source:** The dataset used in this project is sourced from Kaggle.  
+  - [Ecommerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
