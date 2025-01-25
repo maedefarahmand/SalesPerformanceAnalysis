@@ -17,5 +17,7 @@ The project involves the following steps:
 3. **Power BI Dashboard:**  
    - Created a visualization dashboard to present key insights derived from the clustered dataset in `PowerBIAnalysis.pbix`.
 
+## Dataset
+
 - **Source:** The dataset used in this project is sourced from Kaggle.  
   - [Ecommerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
